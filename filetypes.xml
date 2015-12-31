@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
+      <mapping ext="josn" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
