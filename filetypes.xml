@@ -5,6 +5,7 @@
       <mapping pattern=".ichirc" type="JSON" />
       <mapping pattern=".appifyrc" type="JSON" />
       <mapping pattern="ichi" type="JavaScript" />
+      <mapping ext="lss" type="JavaScript" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
       <mapping ext="josn" type="PLAIN_TEXT" />
     </extensionMap>
