@@ -6,9 +6,7 @@
   <component name="CssFoldingSettings">
     <option name="collapseDataUri" value="false" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Hagai Akibayov">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Hagai Akibayov" />
   <component name="DartCodeFoldingSettings">
     <option name="collapseParts" value="false" />
   </component>

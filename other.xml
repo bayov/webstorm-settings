@@ -41,6 +41,9 @@
             <id>CSS</id>
           </State>
           <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
             <id>CoffeeScript</id>
           </State>
           <State>
@@ -94,7 +97,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSUnresolvedVariable</id>
+            <id>ChainedFunctionCallJS</id>
           </State>
         </selected-state>
       </profile-state>
