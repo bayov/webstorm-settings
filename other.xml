@@ -100,7 +100,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSValidateJSDoc</id>
+            <id>FunctionWithMultipleLoopsJS</id>
           </State>
         </selected-state>
       </profile-state>
