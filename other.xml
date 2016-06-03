@@ -83,6 +83,9 @@
             <id>JavaScript validity issuesJavaScript</id>
           </State>
           <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
@@ -97,7 +100,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ContinueStatementJS</id>
+            <id>JSValidateJSDoc</id>
           </State>
         </selected-state>
       </profile-state>

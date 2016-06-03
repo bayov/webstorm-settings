@@ -55,6 +55,8 @@
   <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSValidateJSDoc" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LocalVariableNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_regex" value="[a-z][A-Za-z]*" />
@@ -78,11 +80,6 @@
   </inspection_tool>
   <inspection_tool class="OverlyComplexBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="3" />
-  </inspection_tool>
-  <inspection_tool class="ParameterNamingConventionJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_regex" value="[a-z][A-Za-z]*" />
-    <option name="m_minLength" value="1" />
-    <option name="m_maxLength" value="32" />
   </inspection_tool>
   <inspection_tool class="ParametersPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="5" />
@@ -113,7 +110,6 @@
   <inspection_tool class="TailRecursionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TextLabelInSwitchStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ThreeNegationsPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreCatchBlocksWithComments" value="false" />
   </inspection_tool>
