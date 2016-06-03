@@ -1,7 +1,6 @@
 <application>
   <component name="GithubSettings">
-    <option name="LOGIN" value="hagaiak" />
+    <option name="LOGIN" value="sosz" />
     <option name="AUTH_TYPE" value="BASIC" />
-    <option name="VALID_GIT_AUTH" value="false" />
   </component>
 </application>
