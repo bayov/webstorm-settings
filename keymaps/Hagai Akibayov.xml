@@ -1,0 +1,3 @@
+<keymap version="1" name="Hagai Akibayov" parent="$default">
+  <action id="EditorDeleteLine" />
+</keymap>
