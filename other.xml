@@ -100,7 +100,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSCommentMatchesSignature</id>
+            <id>AnonymousFunctionJS</id>
           </State>
         </selected-state>
       </profile-state>
