@@ -97,7 +97,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ChainedFunctionCallJS</id>
+            <id>ContinueStatementJS</id>
           </State>
         </selected-state>
       </profile-state>
