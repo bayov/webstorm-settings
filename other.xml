@@ -103,7 +103,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>ReuseOfLocalVariableJS</id>
+            <id>JSPotentiallyInvalidTargetOfIndexedPropertyAccess</id>
           </State>
         </selected-state>
       </profile-state>
