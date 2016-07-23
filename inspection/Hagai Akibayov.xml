@@ -99,9 +99,6 @@
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
     <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
-  <inspection_tool class="UnusedCatchParameterJS" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="m_ignoreCatchBlocksWithComments" value="false" />
-  </inspection_tool>
   <inspection_tool class="VoidExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="W3CssValidation" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCssVersion" value="css3" />
